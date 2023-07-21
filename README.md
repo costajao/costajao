@@ -11,7 +11,7 @@
 
 ![costajao GitHub stats](https://github-readme-stats.vercel.app/api?username=costajao&show_icons=true&theme=radical)
 
-![costajao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=costajao&theme=monokai&hide_border=false)
+![costajao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=costajao&theme=radical&hide_border=false)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costajao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
