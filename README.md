@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm João Victor, an enthusiastic big data engineer using Python and Spark, with a passion for Business Inteligence. My workflow revolves around agile methodologies, and I have experience as a Scrum Master in some projects.
+
 - 🔭 I’m currently working on Python Developer and Data Engineer
 - 🌱 I’m currently learning Cloud Computing
 - 🤔 I’m looking for help with ML projects and Cloud Computing
